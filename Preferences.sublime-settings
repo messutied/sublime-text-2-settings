@@ -1,0 +1,33 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+
+	"font_size": 10,
+
+	"tab_size": 4,
+
+	// Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": true,
+
+    // If translate_tabs_to_spaces is true, use_tab_stops will make tab and
+    // backspace insert/delete up to the next tabstop
+    "use_tab_stops": true,
+
+	"highlight_line": true,
+
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+
+	// Controls side bar animation when expanding or collapsing folders
+	"tree_animation_enabled": true,
+
+
+	// Disables horizontal scrolling if enabled.
+    // May be set to true, false, or "auto", where it will be disabled for
+    // source code, and otherwise enabled.
+	"word_wrap": false,
+	
+	// Hides the fold buttons unless the mouse is over the gutter
+	"fade_fold_buttons": false
+}
