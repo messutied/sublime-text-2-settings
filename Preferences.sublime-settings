@@ -22,7 +22,6 @@
 	// Controls side bar animation when expanding or collapsing folders
 	"tree_animation_enabled": true,
 
-
 	// Disables horizontal scrolling if enabled.
     // May be set to true, false, or "auto", where it will be disabled for
     // source code, and otherwise enabled.
